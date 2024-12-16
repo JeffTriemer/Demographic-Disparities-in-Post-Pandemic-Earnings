@@ -1,0 +1,3 @@
+I downloaded the census+income folder from The "Census Income" dataset (https://archive.ics.uci.edu/dataset/20/census+income).  The .data file name adult.data had the fields
+“workclass”, “occupation”, and “native-country” with missing values.  I used my attached R script named analysis to write a .csv file named adult.data.recovered duplicating
+the data but replacing missing values with “ Other”.

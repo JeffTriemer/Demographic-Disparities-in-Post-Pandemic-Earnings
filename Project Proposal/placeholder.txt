@@ -1,0 +1,13 @@
+Hi colleagues,
+
+For the group project I would like to suggest these ideas:
+
+    cargo vessels should operate at the speed that achieves the highest transport efficiency (mass of transported cargo times distance per unit of energy) to maximize the owner's profit.  We should conduct an analysis to find the critical speed for a vessel.
+    analysis of historical return of a derivative-based investment strategy over the history of the stock market serves to determine whether the strategy supplements the long-term return of an investment portfolio; there are numerous investment strategies to improve annual portfolio returns, one of which uses S&P500 futures to leverage investments in the broad market while the unleveraged portion can be invested in the money market.  Such returns added together improves the portfolio return.  Using a leverage investment however is risky since the margin can be called if the market turns in the wrong way.  Over the history of the stock market we should analyze the potential gains and losses from that leveraged strategy to determine whether it is practical for a retail investor.
+    Heart failure is quite a common disease among elders and is typically treated with multiple drugs.  We should study the effectiveness of such drugs to prolong a person's life and decide which drug or combination of drugs leads to the most benefits, i.e. prolonged life.
+
+
+Please revert with your comments or other ideas.
+
+Thanks,
+Daniel Avila
